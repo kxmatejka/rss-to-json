@@ -1,6 +1,10 @@
 Smart rss to json
 =================
 
+DISCONTINUED - library has been [forked](https://www.npmjs.com/package/feed-to-json-promise) by company Economia a.s. which I am an employee
+
+---
+
 Util for parse ATOM and RSS feed resources and normalize them to JSON object.
 
 ## Install
